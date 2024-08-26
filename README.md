@@ -56,3 +56,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/ezequiasangelo/ezequiasangelo/output/snake.svg" alt="Snake animation" />
+
+###
