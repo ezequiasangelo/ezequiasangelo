@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Front-end developer<br>- developer and technical support @conecta</p>
+<p align="left">- Front-end developer<br>- Developer and technical support @conecta</p>
 
 ###
 
